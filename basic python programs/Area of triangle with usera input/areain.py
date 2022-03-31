@@ -1,4 +1,4 @@
-# Program to find area of triangle with user input
+#Program to find area of trianlge with user input
 
 # To find area of triangle first we need to find semi-perimeter of triangle
 
